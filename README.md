@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chamidu Lakshitha</h1>
 <h3 align="center">I'm undergraduate at SLIIT</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=chl22172982&label=Profile%20views&color=0e75b6&style=flat" alt="chl22172982" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chl22172082&label=Profile%20views&color=0e75b6&style=flat" alt="chl22172082" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chl22172982" alt="chl22172982" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chl22172082" alt="chl22172082" /></a> </p>
 
 - 🌱 I’m currently learning **java**
 
